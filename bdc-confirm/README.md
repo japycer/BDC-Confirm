@@ -10,19 +10,19 @@ typora-root-url: doc-imgs
 
 #### Version 1.0
 
-![简约版面](/简约版面.jpg)
+![简约版面](./doc-imgs/简约版面.jpg)
 
 #### Version 1.1
 
-![](/核查2.0.jpg)
+![](./doc-imgs/核查2.0.jpg)
 
 ### Version1.2 完整界面
 
-![完整版面](/完整版面.jpg)
+![完整版面](./doc-imgs/完整版面.jpg)
 
 ### Version 1.3（修改意见）
 
-![修改意见](/修改意见.jpg)
+![修改意见](./doc-imgs/修改意见.jpg)
 
 ## Project setup
 
